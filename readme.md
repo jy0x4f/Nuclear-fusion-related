@@ -1,7 +1,6 @@
 ### Nuclear fusion related
 
-## 
-
+## 孙雅娟，中国科学院，数学与系统科学研究院
 [[pdf](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/notes/Sonia_Hornik.pdf)]Multilayer feedforward networks are universal approximators
 
 
