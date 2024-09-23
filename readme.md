@@ -27,5 +27,14 @@
 [[pdf](https://link.springer.com/article/10.1007/s10543-024-01032-x)]
 
 
+
+* **MIONet: Learning multiple-input operators via tensor product**,
+[[pdf](https://arxiv.org/abs/2202.06137)]
+
+* **DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators**,
+[[pdf](https://arxiv.org/abs/1910.03193)]
+
+
+
 ## 李慧，大连理工大学，信息与通信工程学院
-Noise modeling, evaluation and reduction for the atmospheric lidar technique employing an image sensor
+
