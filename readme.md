@@ -16,5 +16,16 @@
 * **Energy-conserving Hamiltonian Boundary Value Methods for the numerical solution of the Korteweg-de Vries equation**,
 [[pdf]( http://ir.amss.ac.cn/handle/2S8OKBNM/34743)]
 
+## 张瑞丽，北京交通大学，
+* **Physics informed Neural Networks applied to the description of wave-particle resonance in kinetic simulations of fusion plasmas**,
+[[pdf](https://arxiv.org/abs/2308.12312)]
+
+* **Leveraging physics-informed neural computing for transport simulations of nuclear fusion plasmas**,
+[[pdf](https://www.sciencedirect.com/science/article/pii/S1738573324003644)]
+
+* **A robust second-order low-rank BUG integrator based on the midpoint rule**,
+[[pdf](https://link.springer.com/article/10.1007/s10543-024-01032-x)]
+
+
 ## 李慧，大连理工大学，信息与通信工程学院
 Noise modeling, evaluation and reduction for the atmospheric lidar technique employing an image sensor
